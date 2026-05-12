@@ -39,10 +39,12 @@ nav {
 
 .nav__item:first-child {
   margin-left: 0;
+  margin-right: 10px;
 }
 
 .nav__item:last-child {
   margin-right: 0;
+  margin-left: 10px;
 }
 
 .nav__link {
